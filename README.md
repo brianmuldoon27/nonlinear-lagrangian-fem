@@ -3,7 +3,7 @@ Implementation of Lagrangian finite element method for the finite element soluti
 
 This work models the impact of a rectangular solid on a frictionless rigid foundation. 
 
-[Casadi](https://web.casadi.org) was highly leveraged to generate jacobians gauss newton iterations of momentum balance residuals. 
+[Casadi](https://web.casadi.org) was highly leveraged to generate jacobians for gauss newton iterations on momentum balance residuals. 
 
 This work was part of a course project for the University of California, Berkeley advanced graduate course ME280B: Finite Element Methods in Non-linear Continua instructed by Professor Panos Papadopoulos.
 
